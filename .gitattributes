@@ -1,0 +1,1 @@
+models/nin_imagenet_conv.caffemodel filter=lfs diff=lfs merge=lfs -text
