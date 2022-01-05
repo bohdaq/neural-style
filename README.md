@@ -1,4 +1,5 @@
 this repository is based on https://github.com/jcjohnson/neural-style
+check out test.sh to understand how to use it
 
 # neural-style
 
